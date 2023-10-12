@@ -29,8 +29,3 @@ O projeto inclui as seguintes seções principais:
 - **Position**: O projeto faz uso de posicionamento (position) para posicionar elementos, como os logotipos das empresas. Isso permite um maior controle sobre o layout.
 
 - **Flexbox**: A estrutura do layout é construída principalmente com o uso do flexbox. Os itens são organizados em colunas e linhas de forma flexível, tornando o site responsivo.
-
-
-## Licença
-
-Este projeto está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter detalhes.
